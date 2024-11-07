@@ -8,7 +8,8 @@ road map :
 - Package Managers  :   npm
 - Framework js      :   React
 - Framework css     :   Tailwind , bootstrap
-- PHP
-- Framework PHP     :   Laravel
+
+
+Membuat website
 
 KONSISTEN BELAJAR MINIMAL 1 JAM SETIAP HARINYA !!!
