@@ -1,0 +1,12 @@
+Start Resolusi
+road map :
+- HTML
+- CSS
+- javascript
+- VCS               :   GIT 
+- VCS hosting       :   GitHub
+- Package Managers  :   npm
+- Framework js      :   React
+- Framework css     :   Tailwind , bootstrap
+
+KONSISTEN BELAJAR MINIMAL 1 JAM SETIAP HARINYA !!!
